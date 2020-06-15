@@ -68,13 +68,13 @@ My new knowledge <br>
 These are the things that I changed in the Vagrant file: <br>
 
 - config.vm.hostname = "srv-nv" (Hostename) <br>
-- config.vm.network "public_network", ip: "192.168.55.10" (Network) <br>
+- config.vm.network "public_network", ip: "192.168.55.69" (Network) <br>
 - vb.memory = "2048" (VM memory) <br>
 - vb.cpus = "2" (CPU cores) <br>
 <br>
 With this comment : <br>
 
-ifconfig: inet addr:192.168.55.10 <br>
+ifconfig: inet addr:192.168.55.69 <br>
 hostname: srv-nv <br>
 The resource settings can be viewed in Virtual Box. <br>
 
