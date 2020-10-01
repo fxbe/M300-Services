@@ -18,7 +18,7 @@
 # K2 <br>
 
 Git Account: <br>
-- Login Mail: 	fabkel2002@gmail.com <br>
+- Login Mail: 	"mail" <br>
 - Passwort: 	******* <br>
 <br>
 Current knowledge: <br>
